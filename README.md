@@ -1,19 +1,14 @@
-# Meridian: Your Personal Intelligence Agency
+Turn Information into Intelligence
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/iliane5/meridian/deploy-services.yaml?branch=main)](https://github.com/iliane5/meridian/actions/workflows/deploy-services.yaml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Presidential-level intelligence briefings, built with AI, tailored for you.**
 
-Meridian cuts through news noise by scraping hundreds of sources, analyzing stories with AI, and delivering concise, personalized daily briefs.
 
-<p align="center">
-  <img src="./screenshot.png" alt="Meridian Brief Example" width="700"/>
-</p>
 
 ## Why It Exists
 
-Presidents get tailored daily intelligence briefs. Now with AI, you can too. Meridian delivers:
+Presidents get tailored daily intelligence briefs. Now with AI, you can too.
 
 - Key global events filtered by relevance
 - Context and underlying drivers
